@@ -11,8 +11,6 @@ We welcome your contributions to make this repository truly awesome! Please foll
 
 ## Example Listing
 
-Given the nature of this repository, a proper example is hard to define. However, should you find a "nothing" worthy of addition, let it be as unassuming as possible. The art is in the unspoken.
-
 - [Nothing](#) - An excellent example of nothing.
 
 ## To Add Nothing, You Must Remove Something
